@@ -1,8 +1,2 @@
-<html>
-<head>
-	<title>teste</title>
-</head>
-<body>
-helo word
-</body>
-</html>
+1ºcriar uma pasta
+2ºclicar na pasta com o botão direito > 
